@@ -9,6 +9,9 @@ A 501(c)(3) nonprofit dedicated to ethical, inclusive, multilingual AI tutoring 
 [![Donate](https://img.shields.io/badge/Donate-Now!-purple?style=for-the-badge&logo=paypal)](mailto:donate@aiethos.org)  
 [![Email](https://img.shields.io/badge/Contact-contact@aiethos.org-red?style=for-the-badge&logo=gmail)](mailto:contact@aiethos.org)  
 
+<img src="https://github.com/aaryansamanta/ai-ethos/blob/main/AI%20Ethos%20%7C%20Banner.png" alt="Empowering Equitable AI Learning Globally and Ethically" width="800"/>
+
+
 
 <grok-card data-id="8197dd" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 

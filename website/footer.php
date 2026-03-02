@@ -19,29 +19,31 @@
                         <div class="footer-contact">
                             <ul>
                                 <li><i class="far fa-map-marker-alt"></i><?= $contact->address; ?></li>
-                                <li><i class="far fa-phone"></i><?= $contact->tel; ?></li>
+                                <!-- <li><i class="far fa-phone"></i><?= $contact->tel; ?></li> -->
                                 <?php foreach (explode('<br>', $contact->email) as $email) {
                                     echo '<li><a href="mailto:' . $email . '"><i class="far fa-envelope"></i>' . $email . '</a> </li>';
                                 } ?>
                             </ul>
                         </div>
-                        <ul class="footer-social">
+                        <!-- <ul class="footer-social">
                             <li><a href="<?= $contact->linkedin; ?>"><i class="fab fa-linkedin"></i></a></li>
                             <li><a href="<?= $contact->facebook; ?>"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="<?= $contact->twitter; ?>"><i class="fab fa-x-twitter"></i></a></li>
                             <li><a href="<?= $contact->youtube; ?>"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-md-8 col-lg-3">
                     <div class="footer-widget-box list">
                         <h4 class="footer-widget-title">Quick Links</h4>
                         <ul class="footer-list">
+                            <li><a href="/"><i class="fas fa-caret-right"></i> Home</a></li>
                             <li><a href="about.php"><i class="fas fa-caret-right"></i> About</a></li>
-                            <li><a href="events.php"><i class="fas fa-caret-right"></i> Events</a></li>
-                            <li><a href="contact.php"><i class="fas fa-caret-right"></i> Contact</a></li>
-                            <li><a href="donate.php"><i class="fas fa-caret-right"></i> Donate</a></li>
-                            <li><a href="volunteer.php"><i class="fas fa-caret-right"></i> Volunteer</a></li>
+                            <li><a href="contact.php"><i class="fas fa-caret-right"></i> Our Work</a></li>
+                            <li><a href="donate.php"><i class="fas fa-caret-right"></i> Impact</a></li>
+                            <li><a href="volunteer.php"><i class="fas fa-caret-right"></i> Get Involved</a></li>
+                            <li><a href="volunteer.php"><i class="fas fa-caret-right"></i> Contact</a></li>
+                            <li><a href="volunteer.php"><i class="fas fa-caret-right"></i> Donate</a></li>
                         </ul>
                     </div>
                 </div>
@@ -82,8 +84,30 @@
 </footer>
 <!-- footer area end -->
 
-
-
+<style>
+    #sns-scroll{
+        position: fixed;
+        right: 30px;
+        bottom: 90px;
+        z-index: 99;
+    }
+    #sns-scroll a{
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        margin-top: 10px;
+        border-radius: 25px;
+        background-color: rgba(0, 208, 171, .6);
+        line-height: 50px;
+        font-size: 22px;
+        text-align: center;
+    }
+</style>
+<ul id="sns-scroll">
+    <li><a href="https://x.com/" target="_blank"><i class="fab fa-x-twitter"></i></a></li>
+    <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+    <li><a href="https://www.reddit.com/" target="_blank"><i class="fab fa-reddit-alien"></i></a></li>
+</ul>
 
 <!-- scroll-top -->
 <a href="#" id="scroll-top"><i class="far fa-long-arrow-up"></i></a>

@@ -46,107 +46,101 @@
         </div>
         <!-- breadcrumb end -->
 
-
-
-        <!-- contact area -->
-        <div class="contact-area py-120">
+        <!-- about area -->
+        <div class="about-area pt-120">
             <div class="container">
-                <div class="contact-wrapper">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <?php
-                            require_once 'system/Model.php';
-                            $m = new Model();
-                            $contact = json_decode($m->settingGet('contact')->content);
-                            unset($m);
-                            ?>
-                            <div class="contact-content">
-                                <div class="contact-info">
-                                    <div class="contact-info-icon">
-                                        <i class="fal fa-map-marker-alt"></i>
-                                    </div>
-                                    <div class="contact-info-content">
-                                        <h5>Address</h5>
-                                        <p><?= $contact->address; ?></p>
-                                    </div>
-                                </div>
-                                <div class="contact-info">
-                                    <div class="contact-info-icon">
-                                        <i class="fal fa-phone"></i>
-                                    </div>
-                                    <div class="contact-info-content">
-                                        <h5>Call Us</h5>
-                                        <p><?= $contact->tel; ?></p>
-                                    </div>
-                                </div>
-                                <div class="contact-info">
-                                    <div class="contact-info-icon">
-                                        <i class="fal fa-envelope"></i>
-                                    </div>
-                                    <div class="contact-info-content">
-                                        <h5>Email Us</h5>
-                                        <p><?= $contact->email; ?></p>
-                                    </div>
-                                </div>
-                                <div class="contact-info">
-                                    <div class="contact-info-icon">
-                                        <i class="fal fa-clock"></i>
-                                    </div>
-                                    <div class="contact-info-content">
-                                        <h5>Office Open</h5>
-                                        <p><?= $contact->officeOpen; ?></p>
-                                    </div>
-                                </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-left">
+                            <div class="about-img">
+                                <img src="assets/img/about/01.png" alt="">
                             </div>
                         </div>
-                        <div class="col-md-8 align-self-center">
-                            <div class="contact-form">
-                                <div class="contact-form-header">
-                                    <h2>Get In Touch</h2>
-                                    <p>If you have any questions or suggestions for us, please leave us a message here.</p>
-                                </div>
-                                <form method="post" action="/braintox/assets/php/contact.php" id="contact-form">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" name="name"
-                                                    placeholder="Your Name" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" name="email"
-                                                    placeholder="Your Email" required>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" name="subject"
-                                            placeholder="Your Subject" required>
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea name="message" cols="30" rows="5" class="form-control"
-                                            placeholder="Write Your Message"></textarea>
-                                    </div>
-                                    <button type="submit" class="theme-btn">Send
-                                        Message <i class="far fa-paper-plane"></i></button>
-                                    <div class="col-md-12 mt-3">
-                                        <div class="form-messege text-success"></div>
-                                    </div>
-                                </form>
-
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-right">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline">Join the Movement</span>
+                                <h2 class="site-title"><span>Contact</span> Us</h2>
                             </div>
+                            <p class="about-text">AI Ethos | Registered 501(c)(3) Nonprofit | Global Reach | Equity-Driven</p>
+                            <p class="about-text">We’re here to connect, collaborate, and create change. Whether you have a question, want to explore partnership opportunities, or simply wish to learn more about how we’re delivering equitable, ethical AI-powered tutoring to underserved learners worldwide — we’d love to hear from you.</p>
+                            <h5 class="mt-3">Get in Touch</h5>
+                            <p class="about-text"><strong>📧 General Inquiries</strong> - <a href="mailto:contact@aiethos.org">contact@aiethos.org</a></p>
+                            <p class="about-text"><strong>🌐 Website</strong> - <a href="https://www.aiethos.org/">www.aiethos.org</a></p>
+                            <h5 class="mt-3">Quick Ways to Reach Us</h5>
+                            <p>Contact Form — Fill out our simple form for direct, fast responses</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- about area end -->
+
+        <!-- contact area -->
+        <div class="contact-area py-120">
+            <div class="container">
+                <div class="contact-wrapper">
+                    <div class="contact-form">
+                        <div class="contact-form-header">
+                            <h2>Get In Touch</h2>
+                            <p>If you have any questions or suggestions for us, please leave us a message here.</p>
+                        </div>
+                        <form method="post" action="/braintox/assets/php/contact.php" id="contact-form">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="name"
+                                            placeholder="Your Name" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" name="email"
+                                            placeholder="Your Email" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="subject"
+                                    placeholder="Your Subject" required>
+                            </div>
+                            <div class="form-group">
+                                <textarea name="message" cols="30" rows="5" class="form-control"
+                                    placeholder="Write Your Message"></textarea>
+                            </div>
+                            <button type="submit" class="theme-btn">Send
+                                Message <i class="far fa-paper-plane"></i></button>
+                            <div class="col-md-12 mt-3">
+                                <div class="form-messege text-success"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
         <!-- end contact area -->
 
-        <!-- contact map -->
-        <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10721.860170075517!2d-76.08510842926998!3d43.02228837042767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d98cb4a84560cf%3A0xc32c839b4827830a!2sOrange%20Crush%20Lacrosse!5e0!3m2!1sen-US!2s!4v1759889303518!5m2!1sen-US!2s" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <!-- about area -->
+        <div class="about-area pb-120">
+            <div class="container">
+                <h5 class="mt-3">Specific Inquiries</h5>
+                <p>Donate: <a href="mailto:donate@aiethos.org">donate@aiethos.org</a></p>
+                <p>Volunteer: <a href="mailto:volunteer@aiethos.org">volunteer@aiethos.org</a></p>
+                <p>Partnership: <a href="mailto:partner@aiethos.org">partner@aiethos.org</a></p>
+                <p class="mt-3"><strong>Stay Connected</strong> Follow us on social media for real-time updates, impact stories, and ways to get involved:</p>
+                <p>• <a href="https://x.com/">X (Twitter)</a></p>
+                <p>• <a href="https://www.facebook.com/">Facebook</a></p>
+                <p>• <a href="https://www.reddit.com/">Reddit</a></p>
+                <h5 class="mt-3">Together, let’s redefine education for all — equitable, ethical, and accessible. 🌍🚀</h5>
+                <p></p>
+                <p>📧 Email: <a href="mailto:contact@aiethos.org">contact@aiethos.org</a></p>
+                <p>🌐 Website: <a href="https://www.aiethos.org/">www.aiethos.org</a></p>
+            </div>
         </div>
+        <!-- about area end -->
 
 
     </main>

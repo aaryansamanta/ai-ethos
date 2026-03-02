@@ -27,9 +27,14 @@ class Model
         `photo` VARCHAR(100),
         `name` VARCHAR(100),
         `title` VARCHAR(100),
-        `content` TEXT
+        `content` TEXT,
+        `type` INTEGER DEFAULT 1
         )');
     }
+
+    // public function aboutAddColumn(){
+    //     $this->dbh->exec('ALTER TABLE about ADD COLUMN `type` INTEGER DEFAULT 1');
+    // }
 
     public function aboutAdd($photo, $name, $title, $content)
     {
@@ -45,9 +50,16 @@ class Model
         return $stmt->rowCount();
     }
 
-    public function aboutGetAll()
+    public function aboutUpdateType($id, $type)
     {
-        $stmt = $this->dbh->query('SELECT * FROM `about`');
+        $stmt = $this->dbh->prepare('UPDATE `about` SET `type`=? WHERE `id`=?');
+        $stmt->execute([$type, $id]);
+        return $stmt->rowCount();
+    }
+
+    public function aboutGetAll($type = 1)
+    {
+        $stmt = $this->dbh->query('SELECT * FROM `about` WHERE `type`=' . $type);
         return $stmt->fetchAll(\PDO::FETCH_OBJ);
     }
 

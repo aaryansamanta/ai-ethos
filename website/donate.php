@@ -24,6 +24,13 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <style>
+        #donate-page {
+            width: 100%;
+            min-height: 1039px
+        }
+    </style>
+
 </head>
 
 <body>
@@ -46,6 +53,10 @@
         </div>
         <!-- breadcrumb end -->
 
+
+        <div class="container pt-120">
+            <iframe id="donate-page" src="https://www.zeffy.com/en-US/ticketing/ai-ethos-incs-memberships" frameborder="0"></iframe>
+        </div>
 
 
         <!-- feature area -->

@@ -97,7 +97,7 @@
                         </div>
                         <div class="col-md-4 col-lg-4">
                             <div class="hero-bottom-btn hero-bottom-btn-blue">
-                                <h3><a href="/impact.php?#our-impact">Our Events & Impact</a></h3>
+                                <h3><a href="/work.php?#events">Our Events</a> <span style="color:#fff">&</span> <a href="/impact.php?#our-impact">Impact</a></h3>
                                 <p>Programs & Results</p>
                             </div>
                         </div>
@@ -168,7 +168,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a href="about-1.php" class="theme-btn">Discover More</a>
+                            <a href="about.php?#our-mission" class="theme-btn">Discover More</a>
                         </div>
                     </div>
                 </div>

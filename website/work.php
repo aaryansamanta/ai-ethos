@@ -155,83 +155,23 @@
                             </style>
                             <ul class="timeline">
                                 <li>
-                                    <div class="timeline-date"><span>3/12/25</span></div>
+                                    <div class="timeline-date"><span>6/14/2026</span></div>
                                     <div class="timeline-point"></div>
                                     <div class="timeline-content">
                                         <div class="timeline-title">
-                                            <h6>Research on AI tutoring equity gaps begins</h6>
+                                            <h6>San Jose Spanish-speaking community</h6>
                                         </div>
-                                        <p>Research on AI tutoring equity gaps begins</p>
+                                        <p>San Jose Spanish-speaking community</p>
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="timeline-date"><span>3/28/25</span></div>
+                                    <div class="timeline-date"><span>4/12/26</span></div>
                                     <div class="timeline-point"></div>
                                     <div class="timeline-content">
                                         <div class="timeline-title">
-                                            <h6>Mission framework drafted</h6>
+                                            <h6>Impact milestone: 195 learners across 3 countries</h6>
                                         </div>
-                                        <p>Mission framework drafted</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>4/11/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>AI Ethos ideation</h6>
-                                        </div>
-                                        <p>AI Ethos ideation</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>7/30/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>Incorporation approved</h6>
-                                        </div>
-                                        <p>Incorporation approved</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>9/26/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>IRS 501(c)(3) approval</h6>
-                                        </div>
-                                        <p>IRS 501(c)(3) approval</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>10/5/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>Website v1 launched</h6>
-                                        </div>
-                                        <p>Website v1 launched</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>10/15/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>Tutoring launched for 25 students in 1 country</h6>
-                                        </div>
-                                        <p>Tutoring launched for 25 students in 1 country</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="timeline-date"><span>12/1/25</span></div>
-                                    <div class="timeline-point"></div>
-                                    <div class="timeline-content">
-                                        <div class="timeline-title">
-                                            <h6>Partnership with LCP</h6>
-                                        </div>
-                                        <p>Partnership with LCP</p>
+                                        <p>Impact milestone: 195 learners across 3 countries</p>
                                     </div>
                                 </li>
                                 <li>
@@ -245,13 +185,83 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="timeline-date"><span>4/12/26</span></div>
+                                    <div class="timeline-date"><span>12/1/25</span></div>
                                     <div class="timeline-point"></div>
                                     <div class="timeline-content">
                                         <div class="timeline-title">
-                                            <h6>Impact milestone: 195 learners across 3 countries</h6>
+                                            <h6>Partnership with LCP</h6>
                                         </div>
-                                        <p>Impact milestone: 195 learners across 3 countries</p>
+                                        <p>Partnership with LCP</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>10/15/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>Tutoring launched for 25 students in 1 country</h6>
+                                        </div>
+                                        <p>Tutoring launched for 25 students in 1 country</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>10/5/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>Website v1 launched</h6>
+                                        </div>
+                                        <p>Website v1 launched</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>9/26/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>IRS 501(c)(3) approval</h6>
+                                        </div>
+                                        <p>IRS 501(c)(3) approval</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>7/30/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>Incorporation approved</h6>
+                                        </div>
+                                        <p>Incorporation approved</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>4/11/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>AI Ethos ideation</h6>
+                                        </div>
+                                        <p>AI Ethos ideation</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>3/28/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>Mission framework drafted</h6>
+                                        </div>
+                                        <p>Mission framework drafted</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="timeline-date"><span>3/12/25</span></div>
+                                    <div class="timeline-point"></div>
+                                    <div class="timeline-content">
+                                        <div class="timeline-title">
+                                            <h6>Research on AI tutoring equity gaps begins</h6>
+                                        </div>
+                                        <p>Research on AI tutoring equity gaps begins</p>
                                     </div>
                                 </li>
                             </ul>

@@ -104,9 +104,10 @@
     }
 </style>
 <ul id="sns-scroll">
-    <li><a href="https://x.com/" target="_blank"><i class="fab fa-x-twitter"></i></a></li>
-    <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a></li>
-    <li><a href="https://www.reddit.com/" target="_blank"><i class="fab fa-reddit-alien"></i></a></li>
+    <li><a href="https://x.com/AIEthosInc" target="_blank"><i class="fab fa-x-twitter"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/aaryan-samanta-089149410/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+    <!-- <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+    <li><a href="https://www.reddit.com/" target="_blank"><i class="fab fa-reddit-alien"></i></a></li> -->
 </ul>
 
 <!-- scroll-top -->

@@ -360,7 +360,7 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <span><i class="far fa-question"></i></span> Adaptive & Supportive Instruction:
+                                        <span><i class="far fa-microchip-ai"></i></span> Adaptive & Supportive Instruction:
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -372,7 +372,7 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <span><i class="far fa-question"></i></span> Privacy-First Student Care:
+                                        <span><i class="far fa-microchip-ai"></i></span> Privacy-First Student Care:
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -385,7 +385,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <span><i class="far fa-question"></i></span> Community-Co-Created Content:
+                                        <span><i class="far fa-microchip-ai"></i></span> Community-Co-Created Content:
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
@@ -421,7 +421,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mb-30">AI Ethos serves earners and educators often excluded from traditional and AI-powered tutoring—low-income and rural students, multilingual and differently-abled learners, and under-resourced schools. We empower teachers and community educators through open-source, co-designed tutoring, while delivering ethical, privacy-first AI with measurable social impact.</div>
+                <div class="mb-30">AI Ethos serves learners and educators often excluded from traditional and AI-powered tutoring—low-income and rural students, multilingual and differently-abled learners, and under-resourced schools. We empower teachers and community educators through open-source, co-designed tutoring, while delivering ethical, privacy-first AI with measurable social impact.</div>
                 <div class="row">
                     <div class="col-4">
                         <div class="team-item">

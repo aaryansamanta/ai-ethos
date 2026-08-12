@@ -162,68 +162,6 @@
         <!-- service area end -->
 
         <!-- about area -->
-        <div class="about-area py-120">
-            <div class="container mt-3">
-                <div class="site-heading mb-3">
-                    <h2 class="site-title">Emails</h2>
-                </div>
-                <p class="about-text">Aaryan Samanta - President, Founder & CEO, USA, English & Spanish</p>
-                <p class="about-text">Jason Li - Secretary, China, Mandarin, 15618517686@163.com, brucego.lilin@gmail.com, Lin.li@gmail.com, Bruce.li@champ-path.com, Dean_Wilson@housetonacademy.org</p>
-                <p class="about-text">Arindam Samanta - Treasurer, USA, English & Bengali</p>
-                <p class="about-text">Guillermo Nicolas Villalba Cuesta (William) - Director, Spain & UK, Spanish, gv276@cantab.ac.uk</p>
-                <p class="about-text">Dr Alexandar Blum, USA - Advisor, UC Berkeley PhD, Stanford Post Doctoral Scholar</p>
-                <p class="about-text">Dr Yan Liu, USA - Advisor, Purdue PhD, Former, Stanford Post Doctoral Scholar, Coursera</p>
-                <p class="about-text">Laurence Dang - Advisor, French, Carnegie Mellon University</p>
-            </div>
-        </div>
-        <!-- about area end -->
-
-        <!-- about area -->
-        <div class="about-area">
-            <div class="container mt-3">
-                <div class="site-heading mb-3">
-                    <h2 class="site-title">Board of Advisors Role</h2>
-                </div>
-                <p class="about-text">Provide Expertise: Offer specialized knowledge (e.g., ethics, tech, policy) to guide AI ethics decisions.</p>
-                <p class="about-text">Consult & Advise: Educate board on complex AI ethical dilemmas, propose solutions.</p>
-                <p class="about-text">No Decision-Making Authority: Unlike a governing board, an advisory board does not have the power to make formal decisions or vote on organizational matters. </p>
-                <p class="about-text">Not a Governing Body: They are not responsible for the legal and fiduciary duties of the governing board.</p>
-            </div>
-        </div>
-        <!-- about area end -->
-
-        <!-- about area -->
-        <div class="about-area pt-120">
-            <div class="container mt-3">
-                <div class="site-heading mb-3">
-                    <h2 class="site-title">Leadership Positions</h2>
-                    <p><strong>Core Governing Roles (Mentioned First)</strong></p>
-                </div>
-                <p class="about-text">
-                    • President<br>
-                    • Secretary<br>
-                    • Treasurer
-                </p>
-                <div class="site-heading mb-3">
-                    <h2 class="site-title">Honorary Roles</h2>
-                </div>
-                <p class="about-text">
-                    • EVP of Sponsorship (Multiple)<br>
-                    • EVP of Membership (Multiple)<br>
-                    • EVP of Operations – Spanish<br>
-                    • EVP of Operations – English<br>
-                    • EVP of Operations – Vietnamese<br>
-                    • EVP of Operations – Mandarin<br>
-                    • EVP of Communications<br>
-                    • Deputy EVP<br>
-                    • VP<br>
-                    • Deputy VP
-                </p>
-            </div>
-        </div>
-        <!-- about area end -->
-
-        <!-- about area -->
         <div id="partners" class="about-area py-120">
             <div class="container mt-3">
                 <div class="site-heading mb-3">
@@ -305,7 +243,7 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <span><i class="far fa-question"></i></span> Adaptive & Supportive Instruction:
+                                        <span><i class="far fa-microchip-ai"></i></span> Adaptive & Supportive Instruction:
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -317,7 +255,7 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <span><i class="far fa-question"></i></span> Privacy-First Student Care:
+                                        <span><i class="far fa-microchip-ai"></i></span> Privacy-First Student Care:
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -330,7 +268,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <span><i class="far fa-question"></i></span> Community-Co-Created Content:
+                                        <span><i class="far fa-microchip-ai"></i></span> Community-Co-Created Content:
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
@@ -364,7 +302,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="mb-30">AI Ethos serves earners and educators often excluded from traditional and AI-powered tutoring—low-income and rural students, multilingual and differently-abled learners, and under-resourced schools. We empower teachers and community educators through open-source, co-designed tutoring, while delivering ethical, privacy-first AI with measurable social impact.</div>
+                <div class="mb-30">AI Ethos serves learners and educators often excluded from traditional and AI-powered tutoring—low-income and rural students, multilingual and differently-abled learners, and under-resourced schools. We empower teachers and community educators through open-source, co-designed tutoring, while delivering ethical, privacy-first AI with measurable social impact.</div>
                 <div class="row">
                     <div class="col-4">
                         <div class="team-item">

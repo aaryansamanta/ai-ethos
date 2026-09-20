@@ -77,11 +77,11 @@
                 <div class="site-heading mb-3">
                     <h2 class="site-title">Empowering Equitable AI Learning</h2>
                 </div>
-                <p class="about-text">AI Ethos is dedicated to empowering equitable AI learning by tackling systemic barriers in educational technology. Our AI tutoring systems reduce biases and disparities, serving low-income, rural, multilingual, and neurodiverse students. With localized, infrastructure-light designs, we deliver adaptive learning that measures equity through real impact: reaching over 1,500 students, supporting 10 languages across 7 countries, and achieving a 25% average improvement in math scores.</p>
+                <p class="about-text">AI Ethos is dedicated to empowering equitable AI learning by tackling systemic barriers in educational technology. Our AI tutoring systems reduce biases and disparities, serving low-income, rural, multilingual, and neurodiverse students. With localized, infrastructure-light designs, we deliver adaptive learning that measures equity through real impact: reaching over 1,500 students, supporting 7 languages, and achieving a 22% average improvement in math scores.</p>
                 <div class="site-heading mb-3">
                     <h2 class="site-title">AI Tutoring for Underserved Communities Worldwide</h2>
                 </div>
-                <p class="about-text">Our free, adaptive AI tutoring targets underserved groups globally, including low-income students, multilingual learners, differently-abled individuals, teachers, NGOs, rural schools, and minority youth. Operating in low-connectivity areas with culturally relevant content in 10 languages across 7 countries, we've impacted over 1,500 students. Through partnerships and open-source scaling, we ensure even remote regions access personalized, inclusive learning.</p>
+                <p class="about-text">Our free, adaptive AI tutoring targets underserved groups globally, including low-income students, multilingual learners, differently-abled individuals, teachers, NGOs, rural schools, and minority youth. Operating in low-connectivity areas with culturally relevant content in 7 languages, we've impacted over 1,500 students. Through partnerships and open-source scaling, we ensure even remote regions access personalized, inclusive learning.</p>
                 <div class="site-heading mb-3">
                     <h2 class="site-title">Ethical Tutoring for All</h2>
                 </div>

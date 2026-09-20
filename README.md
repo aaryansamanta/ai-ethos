@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/banner.png" alt="AI Ethos, Inc. — Empowering Equitable AI Learning Globally and Ethically" width="100%"/>
+<img src="readme-assets/banner.png" alt="AI Ethos, Inc. — Empowering Equitable AI Learning Globally and Ethically" width="100%"/>
 
 # AI Ethos, Inc. 🤖❤️
 
@@ -12,7 +12,7 @@ A 501(c)(3) nonprofit dedicated to ethical, inclusive, multilingual AI tutoring 
 [![Contact](https://img.shields.io/badge/Contact-contact%40aiethos.org-2e7d32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@aiethos.org)
 [![501(c)(3)](https://img.shields.io/badge/IRS-501(c)(3)%20Nonprofit-f57c00?style=for-the-badge&logo=googlescholar&logoColor=white)](#-nonprofit-at-heart)
 
-<img src=".github/assets/hero-preview.gif" alt="AI Ethos hero preview — students learning together with AI-powered tools" width="640"/>
+<img src="readme-assets/hero-preview.gif" alt="AI Ethos hero preview — students learning together with AI-powered tools" width="640"/>
 
 **Bridging the AI education divide** — privacy-first, culturally relevant, open-source tutoring that puts equity first. 🌍
 
